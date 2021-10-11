@@ -2,8 +2,8 @@
 こちらの記事を参考にさせていただき、git cloneして使用させていただきました。
 https://zenn.dev/tatsurom/articles/2b92156e509d9e27f81b
 
-- バックエンド: https://github.com/tatsuro-m/react_rails_api_backend
-- フロントエンド: https://github.com/tatsuro-m/react_rails_api_frontend
+- バックエンド: https://github.com/ASAMI-TAKAOKA/react-rails-aop-backend
+- フロントエンド: https://github.com/ASAMI-TAKAOKA/react-rails-aop-frontend
 
 ## 動かしてみる
 フロント側  (3002番ポート)
